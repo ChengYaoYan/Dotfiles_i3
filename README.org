@@ -1,0 +1,20 @@
+#+title: Dotfile_i3
+
+[[./screenshot/screenshot1.png]]
+[[./screenshot/screenshot2.png]]
+[[./screenshot/screenshot3.png]]
+[[./screenshot/screenshot4.png]]
+[[./screenshot/screenshot5.png]]
+[[./screenshot/screenshot6.png]]
+
+* Essential stuff used in this config
+  - i3 (window manager)
+  - Compton (compositor)
+  - Canta-dark (GTK theme)
+  - Canta-dark (kvantum theme)
+  - Os-Catalina-Night (icon theme)
+  - awesomepanda (zsh theme)
+  - Alacritty (terminal emulator)
+  - Albert (desktop agnostic launcher)
+  - Flameshot (screenshot software)
+  - planet (spacemacs theme)
